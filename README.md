@@ -1,3 +1,8 @@
+# To Run
+1 git clone 
+2 cd Enviroment
+3 source sentiment_analysis/bin/activate
+
 # Twitter-Sentiment-Analysis
 A sentiment analysis project using twitter API
 
